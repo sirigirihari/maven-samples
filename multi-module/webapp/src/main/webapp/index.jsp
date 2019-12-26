@@ -1,1 +1,1 @@
-Hello, this is my pipeline version1.1
+Hello, this is my pipeline version1.2
